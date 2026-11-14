@@ -1,0 +1,14 @@
+.git
+.venv
+.prowler-venv
+venv
+__pycache__
+.pytest_cache
+node_modules
+dist
+.metaguard
+.env
+*.db
+*.sqlite*
+screenshots
+presentation
